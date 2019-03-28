@@ -1,0 +1,3339 @@
+smallnet330.txt
+req=75
+req=52
+req=90
+req=90
+req=12
+req=42
+req=47
+req=75
+req=26
+req=76
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.1;
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.1;
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.1;
+Path for commodity 3;[100, 110, 184, 194, 267, 277, 529, 539];
+0.1;
+Path for commodity 4;[130, 202, 212, 225, 235, 529, 539];
+0.1;
+Path for commodity 5;[330, 344, 354, 365, 375, 376, 377, 529, 539];
+0.1;
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.1;
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.1;
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.1;
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.1;
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.2;
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.2;
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.2;
+Path for commodity 3;[100, 110, 184, 194, 267, 277, 529, 539];
+0.2;
+Path for commodity 4;[130, 202, 212, 225, 235, 529, 539];
+0.2;
+Path for commodity 5;[330, 344, 354, 365, 375, 376, 377, 529, 539];
+0.2;
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.2;
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.2;
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.2;
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.2;
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.30000000000000004;
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.30000000000000004;
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.30000000000000004;
+Path for commodity 3;[100, 110, 184, 194, 267, 277, 529, 539];
+0.30000000000000004;
+Path for commodity 4;[130, 202, 212, 225, 235, 529, 539];
+0.30000000000000004;
+Path for commodity 5;[330, 344, 354, 365, 375, 376, 377, 529, 539];
+0.30000000000000004;
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.30000000000000004;
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.30000000000000004;
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.30000000000000004;
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.30000000000000004;
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.4;
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.4;
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.4;
+Path for commodity 3;[100, 110, 184, 194, 267, 277, 529, 539];
+0.4;
+Path for commodity 4;[130, 202, 212, 225, 235, 529, 539];
+0.4;
+Path for commodity 5;[330, 344, 354, 365, 375, 376, 377, 529, 539];
+0.4;
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.4;
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.4;
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.4;
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.4;
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.5;
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.5;
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.5;
+Path for commodity 3;[100, 110, 184, 194, 267, 277, 529, 539];
+0.5;
+Path for commodity 4;[130, 202, 212, 225, 235, 529, 539];
+0.5;
+Path for commodity 5;[330, 344, 354, 365, 375, 376, 377, 529, 539];
+0.5;
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.5;
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.5;
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.5;
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.5;
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.6;
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.6;
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.6;
+Path for commodity 3;[100, 110, 184, 194, 267, 277, 529, 539];
+0.6;
+Path for commodity 4;[130, 202, 212, 225, 235, 529, 539];
+0.6;
+Path for commodity 5;[330, 344, 354, 365, 375, 376, 377, 529, 539];
+0.6;
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.6;
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.6;
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.6;
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.6;
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.7;
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.7;
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.7;
+Path for commodity 3;[100, 110, 184, 194, 267, 277, 529, 539];
+0.7;
+Path for commodity 4;[130, 202, 212, 225, 235, 529, 539];
+0.7;
+Path for commodity 5;[330, 344, 354, 365, 375, 376, 377, 529, 539];
+0.7;
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.7;
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.7;
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.7;
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.7;
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.7999999999999999;
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.7999999999999999;
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.7999999999999999;
+Path for commodity 3;[100, 110, 184, 194, 267, 277, 529, 539];
+0.7999999999999999;
+Path for commodity 4;[130, 202, 212, 225, 235, 529, 539];
+0.7999999999999999;
+Path for commodity 5;[330, 344, 354, 365, 375, 376, 377, 529, 539];
+0.7999999999999999;
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.7999999999999999;
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.7999999999999999;
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.7999999999999999;
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.7999999999999999;
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.8999999999999999;
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.8999999999999999;
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.8999999999999999;
+Path for commodity 3;[100, 110, 184, 194, 267, 277, 529, 539];
+0.8999999999999999;
+Path for commodity 4;[130, 202, 212, 225, 235, 529, 539];
+0.8999999999999999;
+Path for commodity 5;[330, 344, 354, 365, 375, 376, 377, 529, 539];
+0.8999999999999999;
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.8999999999999999;
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.8999999999999999;
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.8999999999999999;
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.8999999999999999;
+Path for commodity 0;[0, 10, 11, 145, 155, 529, 539];
+0.9999999999999999;
+callbfordcost[520][530]=2
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=2
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=2
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=2
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=2
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=2
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=2
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=2
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=2
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=2
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+0.9999999999999999;
+callbfordcost[520][530]=2
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=2
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=2
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=2
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=2
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=2
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=2
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=2
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=2
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=2
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+0.9999999999999999;
+callbfordcost[520][530]=2
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=2
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=2
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=2
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=2
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=2
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=2
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=2
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=2
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=2
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity3	 is stable	0.8999999999999999;
+10:
+callbfordcost[520][530]=2
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=2
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=2
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=2
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=2
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=2
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=2
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=2
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=2
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=2
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity3	 is stable	0.8999999999999999;
+10:
+commodity4	 is stable	0.8999999999999999;
+10:
+callbfordcost[520][530]=5
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=5
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=5
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=5
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=5
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=5
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=5
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=5
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=5
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=5
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity3	 is stable	0.8999999999999999;
+10:
+commodity4	 is stable	0.8999999999999999;
+10:
+commodity5	 is stable	0.8999999999999999;
+10:
+callbfordcost[520][530]=5
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=5
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=5
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=5
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=5
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=5
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=5
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=5
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=5
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=5
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+0.9999999999999999;
+callbfordcost[520][530]=5
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=5
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=5
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=5
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=5
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=5
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=5
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=5
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=5
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=5
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+0.9999999999999999;
+callbfordcost[520][530]=5
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=5
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=5
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=5
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=5
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=5
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=5
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=5
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=5
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=5
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+0.9999999999999999;
+callbfordcost[520][530]=5
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=5
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=5
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=5
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=5
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=5
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=5
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=5
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=5
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=5
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+0.9999999999999999;
+callbfordcost[520][530]=5
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=5
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=5
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=5
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=5
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=5
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=5
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=5
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=5
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=5
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+11:
+commodity3	 is stable	0.8999999999999999;
+10:
+commodity4	 is stable	0.8999999999999999;
+10:
+commodity5	 is stable	0.8999999999999999;
+10:
+callbfordcost[520][530]=9
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=9
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=9
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=9
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=9
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=9
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=9
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=9
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=9
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=9
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+1.0999999999999999;
+callbfordcost[520][530]=9
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=9
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=9
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=9
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=9
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=9
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=9
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=9
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=9
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=9
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+1.0999999999999999;
+callbfordcost[520][530]=9
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=9
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=9
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=9
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=9
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=9
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=9
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=9
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=9
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=9
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+11:
+commodity3	 is stable	0.8999999999999999;
+11:
+commodity4	 is stable	0.8999999999999999;
+10:
+commodity5	 is stable	0.8999999999999999;
+10:
+callbfordcost[520][530]=9
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=9
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=9
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=9
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=9
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=9
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=9
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=9
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=9
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=9
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+11:
+commodity3	 is stable	0.8999999999999999;
+11:
+commodity4	 is stable	0.8999999999999999;
+11:
+commodity5	 is stable	0.8999999999999999;
+10:
+callbfordcost[520][530]=13
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=13
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=13
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=13
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=13
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=13
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=13
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=13
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=13
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=13
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+11:
+commodity3	 is stable	0.8999999999999999;
+11:
+commodity4	 is stable	0.8999999999999999;
+11:
+commodity5	 is stable	0.8999999999999999;
+11:
+callbfordcost[520][530]=13
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=13
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=13
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=13
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=13
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=13
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=13
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=13
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=13
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=13
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+1.0999999999999999;
+callbfordcost[520][530]=13
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=13
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=13
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=13
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=13
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=13
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=13
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=13
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=13
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=13
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+1.0999999999999999;
+callbfordcost[520][530]=13
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=13
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=13
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=13
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=13
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=13
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=13
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=13
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=13
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=13
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+1.0999999999999999;
+callbfordcost[520][530]=13
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=13
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=13
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=13
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=13
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=13
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=13
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=13
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=13
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=13
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+1.0999999999999999;
+callbfordcost[520][530]=13
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=13
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=13
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=13
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=13
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=13
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=13
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=13
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=13
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=13
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+12:
+commodity3	 is stable	0.8999999999999999;
+11:
+commodity4	 is stable	0.8999999999999999;
+11:
+commodity5	 is stable	0.8999999999999999;
+11:
+callbfordcost[520][530]=17
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=17
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=17
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=17
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=17
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=17
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=17
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=17
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=17
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=17
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+1.2;
+callbfordcost[520][530]=17
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=17
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=17
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=17
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=17
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=17
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=17
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=17
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=17
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=17
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+1.2;
+callbfordcost[520][530]=17
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=17
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=17
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=17
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=17
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=17
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=17
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=17
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=17
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=17
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+12:
+commodity3	 is stable	0.8999999999999999;
+12:
+commodity4	 is stable	0.8999999999999999;
+11:
+commodity5	 is stable	0.8999999999999999;
+11:
+callbfordcost[520][530]=17
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=17
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=17
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=17
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=17
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=17
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=17
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=17
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=17
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=17
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+12:
+commodity3	 is stable	0.8999999999999999;
+12:
+commodity4	 is stable	0.8999999999999999;
+12:
+commodity5	 is stable	0.8999999999999999;
+11:
+callbfordcost[520][530]=21
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=21
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=21
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=21
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=21
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=21
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=21
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=21
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=21
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=21
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+12:
+commodity3	 is stable	0.8999999999999999;
+12:
+commodity4	 is stable	0.8999999999999999;
+12:
+commodity5	 is stable	0.8999999999999999;
+12:
+callbfordcost[520][530]=21
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=21
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=21
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=21
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=21
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=21
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=21
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=21
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=21
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=21
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+1.2;
+callbfordcost[520][530]=21
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=21
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=21
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=21
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=21
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=21
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=21
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=21
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=21
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=21
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+1.2;
+callbfordcost[520][530]=21
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=21
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=21
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=21
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=21
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=21
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=21
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=21
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=21
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=21
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+1.2;
+callbfordcost[520][530]=21
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=21
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=21
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=21
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=21
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=21
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=21
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=21
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=21
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=21
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+1.2;
+callbfordcost[520][530]=21
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=21
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=21
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=21
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=21
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=21
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=21
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=21
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=21
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=21
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+13:
+commodity3	 is stable	0.8999999999999999;
+12:
+commodity4	 is stable	0.8999999999999999;
+12:
+commodity5	 is stable	0.8999999999999999;
+12:
+callbfordcost[520][530]=25
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=25
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=25
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=25
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=25
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=25
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=25
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=25
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=25
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=25
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+1.3;
+callbfordcost[520][530]=25
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=25
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=25
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=25
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=25
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=25
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=25
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=25
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=25
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=25
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+1.3;
+callbfordcost[520][530]=25
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=25
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=25
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=25
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=25
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=25
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=25
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=25
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=25
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=25
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+13:
+commodity3	 is stable	0.8999999999999999;
+13:
+commodity4	 is stable	0.8999999999999999;
+12:
+commodity5	 is stable	0.8999999999999999;
+12:
+callbfordcost[520][530]=25
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=25
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=25
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=25
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=25
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=25
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=25
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=25
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=25
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=25
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+13:
+commodity3	 is stable	0.8999999999999999;
+13:
+commodity4	 is stable	0.8999999999999999;
+13:
+commodity5	 is stable	0.8999999999999999;
+12:
+callbfordcost[520][530]=28
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=28
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=28
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=28
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=28
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=28
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=28
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=28
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=28
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=28
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+13:
+commodity3	 is stable	0.8999999999999999;
+13:
+commodity4	 is stable	0.8999999999999999;
+13:
+commodity5	 is stable	0.8999999999999999;
+13:
+callbfordcost[520][530]=28
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=28
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=28
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=28
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=28
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=28
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=28
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=28
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=28
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=28
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+1.3;
+callbfordcost[520][530]=28
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=28
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=28
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=28
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=28
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=28
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=28
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=28
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=28
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=28
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+1.3;
+callbfordcost[520][530]=28
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=28
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=28
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=28
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=28
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=28
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=28
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=28
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=28
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=28
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+1.3;
+callbfordcost[520][530]=28
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=28
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=28
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=28
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=28
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=28
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=28
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=28
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=28
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=28
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+1.3;
+callbfordcost[520][530]=28
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=28
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=28
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=28
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=28
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=28
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=28
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=28
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=28
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=28
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+14:
+commodity3	 is stable	0.8999999999999999;
+13:
+commodity4	 is stable	0.8999999999999999;
+13:
+commodity5	 is stable	0.8999999999999999;
+13:
+callbfordcost[520][530]=32
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=32
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=32
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=32
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=32
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=32
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=32
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=32
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=32
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=32
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+1.4000000000000001;
+callbfordcost[520][530]=32
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=32
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=32
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=32
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=32
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=32
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=32
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=32
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=32
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=32
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+1.4000000000000001;
+callbfordcost[520][530]=32
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=32
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=32
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=32
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=32
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=32
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=32
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=32
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=32
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=32
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+14:
+commodity3	 is stable	0.8999999999999999;
+14:
+commodity4	 is stable	0.8999999999999999;
+13:
+commodity5	 is stable	0.8999999999999999;
+13:
+callbfordcost[520][530]=32
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=32
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=32
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=32
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=32
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=32
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=32
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=32
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=32
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=32
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+14:
+commodity3	 is stable	0.8999999999999999;
+14:
+commodity4	 is stable	0.8999999999999999;
+14:
+commodity5	 is stable	0.8999999999999999;
+13:
+callbfordcost[520][530]=36
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=36
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=36
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=36
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=36
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=36
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=36
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=36
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=36
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=36
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+14:
+commodity3	 is stable	0.8999999999999999;
+14:
+commodity4	 is stable	0.8999999999999999;
+14:
+commodity5	 is stable	0.8999999999999999;
+14:
+callbfordcost[520][530]=36
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=36
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=36
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=36
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=36
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=36
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=36
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=36
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=36
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=36
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+1.4000000000000001;
+callbfordcost[520][530]=36
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=36
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=36
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=36
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=36
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=36
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=36
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=36
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=36
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=36
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+1.4000000000000001;
+callbfordcost[520][530]=36
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=36
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=36
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=36
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=36
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=36
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=36
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=36
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=36
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=36
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+1.4000000000000001;
+callbfordcost[520][530]=36
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=36
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=36
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=36
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=36
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=36
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=36
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=36
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=36
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=36
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+1.4000000000000001;
+callbfordcost[520][530]=36
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=36
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=36
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=36
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=36
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=36
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=36
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=36
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=36
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=36
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+15:
+commodity3	 is stable	0.8999999999999999;
+14:
+commodity4	 is stable	0.8999999999999999;
+14:
+commodity5	 is stable	0.8999999999999999;
+14:
+callbfordcost[520][530]=40
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=40
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=40
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=40
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=40
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=40
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=40
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=40
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=40
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=40
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+1.5000000000000002;
+callbfordcost[520][530]=40
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=40
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=40
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=40
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=40
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=40
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=40
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=40
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=40
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=40
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+1.5000000000000002;
+callbfordcost[520][530]=40
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=40
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=40
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=40
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=40
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=40
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=40
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=40
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=40
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=40
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+15:
+commodity3	 is stable	0.8999999999999999;
+15:
+commodity4	 is stable	0.8999999999999999;
+14:
+commodity5	 is stable	0.8999999999999999;
+14:
+callbfordcost[520][530]=40
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=40
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=40
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=40
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=40
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=40
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=40
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=40
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=40
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=40
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+15:
+commodity3	 is stable	0.8999999999999999;
+15:
+commodity4	 is stable	0.8999999999999999;
+15:
+commodity5	 is stable	0.8999999999999999;
+14:
+callbfordcost[520][530]=43
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=43
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=43
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=43
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=43
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=43
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=43
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=43
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=43
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=43
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+15:
+commodity3	 is stable	0.8999999999999999;
+15:
+commodity4	 is stable	0.8999999999999999;
+15:
+commodity5	 is stable	0.8999999999999999;
+15:
+callbfordcost[520][530]=43
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=43
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=43
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=43
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=43
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=43
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=43
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=43
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=43
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=43
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+1.5000000000000002;
+callbfordcost[520][530]=43
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=43
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=43
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=43
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=43
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=43
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=43
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=43
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=43
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=43
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+1.5000000000000002;
+callbfordcost[520][530]=43
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=43
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=43
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=43
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=43
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=43
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=43
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=43
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=43
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=43
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+1.5000000000000002;
+callbfordcost[520][530]=43
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=43
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=43
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=43
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=43
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=43
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=43
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=43
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=43
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=43
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+1.5000000000000002;
+callbfordcost[520][530]=43
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=43
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=43
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=43
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=43
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=43
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=43
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=43
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=43
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=43
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+16:
+commodity3	 is stable	0.8999999999999999;
+15:
+commodity4	 is stable	0.8999999999999999;
+15:
+commodity5	 is stable	0.8999999999999999;
+15:
+callbfordcost[520][530]=47
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=47
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=47
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=47
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=47
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=47
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=47
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=47
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=47
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=47
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+1.6000000000000003;
+callbfordcost[520][530]=47
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=47
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=47
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=47
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=47
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=47
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=47
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=47
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=47
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=47
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+1.6000000000000003;
+callbfordcost[520][530]=47
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=47
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=47
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=47
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=47
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=47
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=47
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=47
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=47
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=47
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+16:
+commodity3	 is stable	0.8999999999999999;
+16:
+commodity4	 is stable	0.8999999999999999;
+15:
+commodity5	 is stable	0.8999999999999999;
+15:
+callbfordcost[520][530]=47
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=47
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=47
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=47
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=47
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=47
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=47
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=47
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=47
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=47
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+16:
+commodity3	 is stable	0.8999999999999999;
+16:
+commodity4	 is stable	0.8999999999999999;
+16:
+commodity5	 is stable	0.8999999999999999;
+15:
+callbfordcost[520][530]=51
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=51
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=51
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=51
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=51
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=51
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=51
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=51
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=51
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=51
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+16:
+commodity3	 is stable	0.8999999999999999;
+16:
+commodity4	 is stable	0.8999999999999999;
+16:
+commodity5	 is stable	0.8999999999999999;
+16:
+callbfordcost[520][530]=51
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=51
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=51
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=51
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=51
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=51
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=51
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=51
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=51
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=51
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+1.6000000000000003;
+callbfordcost[520][530]=51
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=51
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=51
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=51
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=51
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=51
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=51
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=51
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=51
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=51
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+1.6000000000000003;
+callbfordcost[520][530]=51
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=51
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=51
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=51
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=51
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=51
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=51
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=51
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=51
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=51
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+1.6000000000000003;
+callbfordcost[520][530]=51
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=51
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=51
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=51
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=51
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=51
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=51
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=51
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=51
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=51
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+1.6000000000000003;
+callbfordcost[520][530]=51
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=51
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=51
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=51
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=51
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=51
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=51
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=51
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=51
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=51
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+17:
+commodity3	 is stable	0.8999999999999999;
+16:
+commodity4	 is stable	0.8999999999999999;
+16:
+commodity5	 is stable	0.8999999999999999;
+16:
+callbfordcost[520][530]=55
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=55
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=55
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=55
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=55
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=55
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=55
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=55
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=55
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=55
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+1.7000000000000004;
+callbfordcost[520][530]=55
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=55
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=55
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=55
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=55
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=55
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=55
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=55
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=55
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=55
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+1.7000000000000004;
+callbfordcost[520][530]=55
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=55
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=55
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=55
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=55
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=55
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=55
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=55
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=55
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=55
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+17:
+commodity3	 is stable	0.8999999999999999;
+17:
+commodity4	 is stable	0.8999999999999999;
+16:
+commodity5	 is stable	0.8999999999999999;
+16:
+callbfordcost[520][530]=55
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=55
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=55
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=55
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=55
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=55
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=55
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=55
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=55
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=55
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+17:
+commodity3	 is stable	0.8999999999999999;
+17:
+commodity4	 is stable	0.8999999999999999;
+17:
+commodity5	 is stable	0.8999999999999999;
+16:
+callbfordcost[520][530]=59
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=59
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=59
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=59
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=59
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=59
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=59
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=59
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=59
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=59
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+17:
+commodity3	 is stable	0.8999999999999999;
+17:
+commodity4	 is stable	0.8999999999999999;
+17:
+commodity5	 is stable	0.8999999999999999;
+17:
+callbfordcost[520][530]=59
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=59
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=59
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=59
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=59
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=59
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=59
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=59
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=59
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=59
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+1.7000000000000004;
+callbfordcost[520][530]=59
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=59
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=59
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=59
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=59
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=59
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=59
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=59
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=59
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=59
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+1.7000000000000004;
+callbfordcost[520][530]=59
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=59
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=59
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=59
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=59
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=59
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=59
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=59
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=59
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=59
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+1.7000000000000004;
+callbfordcost[520][530]=59
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=59
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=59
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=59
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=59
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=59
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=59
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=59
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=59
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=59
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+1.7000000000000004;
+callbfordcost[520][530]=59
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=59
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=59
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=59
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=59
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=59
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=59
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=59
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=59
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=59
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+18:
+commodity3	 is stable	0.8999999999999999;
+17:
+commodity4	 is stable	0.8999999999999999;
+17:
+commodity5	 is stable	0.8999999999999999;
+17:
+callbfordcost[520][530]=63
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=63
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=63
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=63
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=63
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=63
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=63
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=63
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=63
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=63
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+1.8000000000000005;
+callbfordcost[520][530]=63
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=63
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=63
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=63
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=63
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=63
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=63
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=63
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=63
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=63
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+1.8000000000000005;
+callbfordcost[520][530]=63
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=63
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=63
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=63
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=63
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=63
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=63
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=63
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=63
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=63
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+18:
+commodity3	 is stable	0.8999999999999999;
+18:
+commodity4	 is stable	0.8999999999999999;
+17:
+commodity5	 is stable	0.8999999999999999;
+17:
+callbfordcost[520][530]=63
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=63
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=63
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=63
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=63
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=63
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=63
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=63
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=63
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=63
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+18:
+commodity3	 is stable	0.8999999999999999;
+18:
+commodity4	 is stable	0.8999999999999999;
+18:
+commodity5	 is stable	0.8999999999999999;
+17:
+callbfordcost[520][530]=66
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=66
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=66
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=66
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=66
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=66
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=66
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=66
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=66
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=66
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+18:
+commodity3	 is stable	0.8999999999999999;
+18:
+commodity4	 is stable	0.8999999999999999;
+18:
+commodity5	 is stable	0.8999999999999999;
+18:
+callbfordcost[520][530]=66
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=66
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=66
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=66
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=66
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=66
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=66
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=66
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=66
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=66
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+1.8000000000000005;
+callbfordcost[520][530]=66
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=66
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=66
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=66
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=66
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=66
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=66
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=66
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=66
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=66
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+1.8000000000000005;
+callbfordcost[520][530]=66
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=66
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=66
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=66
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=66
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=66
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=66
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=66
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=66
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=66
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+1.8000000000000005;
+callbfordcost[520][530]=66
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=66
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=66
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=66
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=66
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=66
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=66
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=66
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=66
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=66
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+1.8000000000000005;
+callbfordcost[520][530]=66
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=66
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=66
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=66
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=66
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=66
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=66
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=66
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=66
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=66
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+19:
+commodity3	 is stable	0.8999999999999999;
+18:
+commodity4	 is stable	0.8999999999999999;
+18:
+commodity5	 is stable	0.8999999999999999;
+18:
+callbfordcost[520][530]=70
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=70
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=70
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=70
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=70
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=70
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=70
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=70
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=70
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=70
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+1.9000000000000006;
+callbfordcost[520][530]=70
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=70
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=70
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=70
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=70
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=70
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=70
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=70
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=70
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=70
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+1.9000000000000006;
+callbfordcost[520][530]=70
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=70
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=70
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=70
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=70
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=70
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=70
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=70
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=70
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=70
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+19:
+commodity3	 is stable	0.8999999999999999;
+19:
+commodity4	 is stable	0.8999999999999999;
+18:
+commodity5	 is stable	0.8999999999999999;
+18:
+callbfordcost[520][530]=70
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=70
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=70
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=70
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=70
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=70
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=70
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=70
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=70
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=70
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+19:
+commodity3	 is stable	0.8999999999999999;
+19:
+commodity4	 is stable	0.8999999999999999;
+19:
+commodity5	 is stable	0.8999999999999999;
+18:
+callbfordcost[520][530]=74
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=74
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=74
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=74
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=74
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=74
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=74
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=74
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=74
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=74
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+19:
+commodity3	 is stable	0.8999999999999999;
+19:
+commodity4	 is stable	0.8999999999999999;
+19:
+commodity5	 is stable	0.8999999999999999;
+19:
+callbfordcost[520][530]=74
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=74
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=74
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=74
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=74
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=74
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=74
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=74
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=74
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=74
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+1.9000000000000006;
+callbfordcost[520][530]=74
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=74
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=74
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=74
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=74
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=74
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=74
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=74
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=74
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=74
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+1.9000000000000006;
+callbfordcost[520][530]=74
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=74
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=74
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=74
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=74
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=74
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=74
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=74
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=74
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=74
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+1.9000000000000006;
+callbfordcost[520][530]=74
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=74
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=74
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=74
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=74
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=74
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=74
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=74
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=74
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=74
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+1.9000000000000006;
+callbfordcost[520][530]=74
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=74
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=74
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=74
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=74
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=74
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=74
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=74
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=74
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=74
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+20:
+commodity3	 is stable	0.8999999999999999;
+19:
+commodity4	 is stable	0.8999999999999999;
+19:
+commodity5	 is stable	0.8999999999999999;
+19:
+callbfordcost[520][530]=78
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=78
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=78
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=78
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=78
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=78
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=78
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=78
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=78
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=78
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+2.0000000000000004;
+callbfordcost[520][530]=78
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=78
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=78
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=78
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=78
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=78
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=78
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=78
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=78
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=78
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+2.0000000000000004;
+callbfordcost[520][530]=78
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=78
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=78
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=78
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=78
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=78
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=78
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=78
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=78
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=78
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+20:
+commodity3	 is stable	0.8999999999999999;
+20:
+commodity4	 is stable	0.8999999999999999;
+19:
+commodity5	 is stable	0.8999999999999999;
+19:
+callbfordcost[520][530]=78
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=78
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=78
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=78
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=78
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=78
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=78
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=78
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=78
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=78
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+20:
+commodity3	 is stable	0.8999999999999999;
+20:
+commodity4	 is stable	0.8999999999999999;
+20:
+commodity5	 is stable	0.8999999999999999;
+19:
+callbfordcost[520][530]=81
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=81
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=81
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=81
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=81
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=81
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=81
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=81
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=81
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=81
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+20:
+commodity3	 is stable	0.8999999999999999;
+20:
+commodity4	 is stable	0.8999999999999999;
+20:
+commodity5	 is stable	0.8999999999999999;
+20:
+callbfordcost[520][530]=81
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=81
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=81
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=81
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=81
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=81
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=81
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=81
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=81
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=81
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+2.0000000000000004;
+callbfordcost[520][530]=81
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=81
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=81
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=81
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=81
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=81
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=81
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=81
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=81
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=81
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+2.0000000000000004;
+callbfordcost[520][530]=81
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=81
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=81
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=81
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=81
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=81
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=81
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=81
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=81
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=81
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+2.0000000000000004;
+callbfordcost[520][530]=81
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=81
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=81
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=81
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=81
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=81
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=81
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=81
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=81
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=81
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+2.0000000000000004;
+callbfordcost[520][530]=81
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=81
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=81
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=81
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=81
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=81
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=81
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=81
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=81
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=81
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+21:
+commodity3	 is stable	0.8999999999999999;
+20:
+commodity4	 is stable	0.8999999999999999;
+20:
+commodity5	 is stable	0.8999999999999999;
+20:
+callbfordcost[520][530]=85
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=85
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=85
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=85
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=85
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=85
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=85
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=85
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=85
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=85
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+2.1000000000000005;
+callbfordcost[520][530]=85
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=85
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=85
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=85
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=85
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=85
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=85
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=85
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=85
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=85
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+2.1000000000000005;
+callbfordcost[520][530]=85
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=85
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=85
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=85
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=85
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=85
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=85
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=85
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=85
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=85
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+21:
+commodity3	 is stable	0.8999999999999999;
+21:
+commodity4	 is stable	0.8999999999999999;
+20:
+commodity5	 is stable	0.8999999999999999;
+20:
+callbfordcost[520][530]=85
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=85
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=85
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=85
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=85
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=85
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=85
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=85
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=85
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=85
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+21:
+commodity3	 is stable	0.8999999999999999;
+21:
+commodity4	 is stable	0.8999999999999999;
+21:
+commodity5	 is stable	0.8999999999999999;
+20:
+callbfordcost[520][530]=89
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=89
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=89
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=89
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=89
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=89
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=89
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=89
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=89
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=89
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+21:
+commodity3	 is stable	0.8999999999999999;
+21:
+commodity4	 is stable	0.8999999999999999;
+21:
+commodity5	 is stable	0.8999999999999999;
+21:
+callbfordcost[520][530]=89
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=89
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=89
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=89
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=89
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=89
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=89
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=89
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=89
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=89
+cap left for callbfordcost996.3
+Path for commodity 6;[200, 210, 223, 233, 245, 255, 287, 297, 589, 599];
+2.1000000000000005;
+callbfordcost[520][530]=89
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=89
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=89
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=89
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=89
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=89
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=89
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=89
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=89
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=89
+cap left for callbfordcost996.3
+Path for commodity 7;[240, 250, 282, 292, 326, 336, 569];
+2.1000000000000005;
+callbfordcost[520][530]=89
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=89
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=89
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=89
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=89
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=89
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=89
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=89
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=89
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=89
+cap left for callbfordcost996.3
+Path for commodity 8;[270, 302, 312, 325, 335, 509];
+2.1000000000000005;
+callbfordcost[520][530]=89
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=89
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=89
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=89
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=89
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=89
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=89
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=89
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=89
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=89
+cap left for callbfordcost996.3
+Path for commodity 9;[300, 310, 344, 354, 365, 375, 376, 377, 589, 599];
+2.1000000000000005;
+callbfordcost[520][530]=89
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=89
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=89
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=89
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=89
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=89
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=89
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=89
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=89
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=89
+cap left for callbfordcost996.3
+Path for commodity 0;null;
+0.9999999999999999;
+commodity0	 is stable	0.9999999999999999;
+22:
+commodity3	 is stable	0.8999999999999999;
+21:
+commodity4	 is stable	0.8999999999999999;
+21:
+commodity5	 is stable	0.8999999999999999;
+21:
+callbfordcost[520][530]=93
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=93
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=93
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=93
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=93
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=93
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=93
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=93
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=93
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=93
+cap left for callbfordcost996.3
+Path for commodity 1;[40, 50, 121, 131, 183, 193, 205, 215, 228, 238, 589, 599];
+2.2000000000000006;
+callbfordcost[520][530]=93
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=93
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=93
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=93
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=93
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=93
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=93
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=93
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=93
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=93
+cap left for callbfordcost996.3
+Path for commodity 2;[130, 202, 212, 225, 235, 569];
+2.2000000000000006;
+callbfordcost[520][530]=93
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=93
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=93
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=93
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=93
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=93
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=93
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=93
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=93
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=93
+cap left for callbfordcost996.3
+Path for commodity 3;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+22:
+commodity3	 is stable	0.8999999999999999;
+22:
+commodity4	 is stable	0.8999999999999999;
+21:
+commodity5	 is stable	0.8999999999999999;
+21:
+callbfordcost[520][530]=93
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=93
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=93
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=93
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=93
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=93
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=93
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=93
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=93
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=93
+cap left for callbfordcost996.3
+Path for commodity 4;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+22:
+commodity3	 is stable	0.8999999999999999;
+22:
+commodity4	 is stable	0.8999999999999999;
+22:
+commodity5	 is stable	0.8999999999999999;
+21:
+callbfordcost[520][530]=97
+cap left for callbfordcost1000.0
+callbfordcost[521][531]=97
+cap left for callbfordcost1000.0
+callbfordcost[522][532]=97
+cap left for callbfordcost1000.0
+callbfordcost[523][533]=97
+cap left for callbfordcost1000.0
+callbfordcost[524][534]=97
+cap left for callbfordcost1000.0
+callbfordcost[525][535]=97
+cap left for callbfordcost1000.0
+callbfordcost[526][536]=97
+cap left for callbfordcost1000.0
+callbfordcost[527][537]=97
+cap left for callbfordcost1000.0
+callbfordcost[528][538]=97
+cap left for callbfordcost1000.0
+callbfordcost[529][539]=97
+cap left for callbfordcost996.3
+Path for commodity 5;null;
+0.8999999999999999;
+commodity0	 is stable	0.9999999999999999;
+22:
+commodity3	 is stable	0.8999999999999999;
+22:
+commodity4	 is stable	0.8999999999999999;
+22:
+commodity5	 is stable	0.8999999999999999;
+22:
